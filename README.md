@@ -8,6 +8,9 @@
 <h2>Cyber Security Projects</h2>
 
 
+<h2>Network and Security engineering projects</h2>
+- Multi-Site WAN Topology (Cisco Packet Tracer)
+  - [GlobeTech Network Topology](https://github.com/KatlegoSikhosana/GlobeTech-Network-Topology) — Multi-branch WAN design with VLAN segmentation, wireless infrastructure, and IPS deployment across three sites
 
 <h2> Certifications:</h2>
 
