@@ -14,6 +14,10 @@
 
 <h2> Certifications:</h2>
 
+- [JavaScript Certificate](certificates/Cert5221284323javacript.pdf)
+- [HTML & CSS Certificate](certificates/Cert50712728300html-css.pdf)
+- [Python Certificate](certificates/Cert75912647201python.pdf)
+- [Microsoft DP-900: Azure Data Fundamentals](certificates/certificateDP900.pdf)
 
 
 
